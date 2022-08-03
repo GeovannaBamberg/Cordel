@@ -57,6 +57,8 @@ section p{
 .imagem{
     background-color: rgb(46, 46, 46);
     color: white;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .imagem p{
     background-color: rgba(0, 0, 0, 0.348);
